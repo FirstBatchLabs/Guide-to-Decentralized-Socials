@@ -12,6 +12,10 @@ As web3 expands, users will continue to have experiences in both web2 and web3 s
 
 In this research, we will examine the progress made so far in Social App development across several L1/L2 chains and how each one addresses the unique needs of Social Apps. To build and scale great social apps, chains should have robust storage and indexing capabilities, immutability, Sybil and censorship resistance, and a high degree of privacy and security for user data. With the promise of an interweb/ multi-chain future for users, interoperable data and ID management are a must. While we still have a long way to go, we will analyze what’s working so far and what are the potential elements necessary to build and scale a great social ecosystem in web3.
 
+<img src="Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/ChainEcos.png">
+
+<img src="Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Trilemma.png">
+
 # How to Build Social Stacks
 
 In order to build a decentralized social media platform, there are many components that need to come together in order to create a complete experience for the end users. 
@@ -23,6 +27,8 @@ In order to build a decentralized social media platform, there are many componen
     - **********************************direct messaging********************************** tools that add private communication capabilities to the app;
     - **personalization** tools for optimizing users’ experience based on their interests;
     - and finally, **search** tools that allow users to easily find content.
+
+<img src="Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/SocialStack.png">
 
 ## Storage
 
@@ -38,7 +44,7 @@ Lens offers a non-custodial social media experience by letting users own their I
 
 ![Untitled](Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Untitled%201.png)
 
-CyberConnnect also provides a decentralized social graph and self-sovereign identity solutions where every user owns their [ccProfile](https://cyberconnect.me/mint) as an NFT. The most popular apps in the Cyberconnect ecosystem are Link3 and Galxe, former is a web3 event platform and the latter is one of the major decentralized identity and verifiable credential protocols.
+CyberConnnect also provides a decentralized social graph and self-sovereign identity solutions where every user owns their [ccProfile](https://cyberconnect.me/mint) as an NFT. The most popular social app in the Cyberconnect ecosystem is Link3 which is a web3 event platform.
 
 ![Untitled](Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Untitled%202.png)
 
@@ -86,7 +92,6 @@ Currently, there are a number of live decentralized social apps that use one or 
 
 ![Untitled](Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Untitled%208.png)
 
-- ********Galxe:******** Infrastructure for community members to curate and contribute digital credentials to Galxe data network.
 - ****************gm.xyz:**************** Community-based social app similar to Reddit with reputation systems, monetization, and token-gating features.
 - **********Orbis:********** Set of social data models combined with a decentralized infrastructure. SDK and flexible modules allow devs to build composable, social experiences.
 - **********Link3:********** Provides a wallet address-based persona composed of verifiable credentials that allow users to connect with events, social communities, investment opportunities, airdrops, or DAO communities in the CyberConnect ecosystem.
@@ -401,3 +406,5 @@ Despite the lack of development of social platforms so far, Tezos has promised t
 The main focus of Avalanche has traditionally been DeFi applications, although it is now transitioning into NFT and GameFi ecosystems. Advancements in elastic subnet development that include subnet asset transfers show promising signs for scalability. At present, Avalanche does not publicly share its development roadmap, so it is yet to be seen if social apps are a part of its long-term strategy.  
 
 On Polkadot, despite having a few social apps in the works, there are currently no social platforms that are live and fully functioning. Considering the scalability and high developer activity of the network, Polkadot might start building the social ecosystem in the near future if it becomes a priority.
+
+<img src="Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/ChainMaturity.png">
