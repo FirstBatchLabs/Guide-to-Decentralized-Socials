@@ -12,14 +12,6 @@ As web3 expands, users will continue to have experiences in both web2 and web3 s
 
 In this research, we will examine the progress made so far in Social App development across several L1/L2 chains and how each one addresses the unique needs of Social Apps. To build and scale great social apps, chains should have robust storage and indexing capabilities, immutability, Sybil and censorship resistance, and a high degree of privacy and security for user data. With the promise of an interweb/ multi-chain future for users, interoperable data and ID management are a must. While we still have a long way to go, we will analyze what’s working so far and what are the potential elements necessary to build and scale a great social ecosystem in web3.
 
-- Speed
-- Sybil
-- Downtime
-- Decentralization
-- Security/privacy
-- Ecosystem
-- Developer Activity on Socials
-
 # How to Build Social Stacks
 
 In order to build a decentralized social media platform, there are many components that need to come together in order to create a complete experience for the end users. 
@@ -116,9 +108,10 @@ The chart below shows the portion of social projects in ETHGlobal hackathon subm
 CyberConnect is a social graph protocol that aims to create an interoperable ecosystem of social apps. The main idea is for users to be able to use, or at least be able to move, the same ID and profiles across different platforms by connecting all of the relevant data of the ecosystem dapps in a public database.
 
 <aside>
-📊 **Total Users** = 1.49 Million
 
-**Total Connections** = 22.22 Million
+**Total Users:** 1.49 Million
+
+**Total Connections:** 22.22 Million
 
 **API Calls:** 204 Million
 
@@ -164,12 +157,7 @@ MonacoNFT is a social platform similar to Twitter with additional sections such 
 
 ## Intuition
 
-### Positive:
-
 - Ethereum has the most active user base among all chains which makes the adoption easier for social apps, they can just use their Ethereum wallet.
-
-### Negative:
-
 - High gas fees make it costly to put social interactions on chain because socials have too many interactions.
 - Transaction speed is not fast enough for having social interactions on chain.
 
@@ -203,14 +191,9 @@ While the NFT, DeFi, and other finance/investment-related sub-verticals are rich
 
 ## Intuition (Ethereum L2s)
 
-### Positive
-
 - With EVM compatibility and the ease of bridging, L2 solutions have the advantage of the large developer community of EVM and easier access to the user base of Ethereum.
 - They are superior to Ethereum in terms of speed and scalability.
 - Rollups have Ethereum’s security.
-
-### Negative
-
 - There are not many social apps built on L2s other than a few projects that migrated from Ethereum to Optimism or Arbitrum.
 
 # Polygon
@@ -237,13 +220,17 @@ Lens protocol dominates the Polygon social ecosystem with 100k+ profiles minted.
 
 ![Screen Shot 2023-01-06 at 09.20.22.png](Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Screen_Shot_2023-01-06_at_09.20.22.png)
 
-Intuition: User migration due to bear market conditions and the aftermath of FTX collapse is a reoccurring pain point for all verticals of the web3 ecosystem. In December 2022, Lens Profile Addresses had the largest monthly percentage drop since launching at -76%. Given the current market conditions of web3 and the global markets at large, we can expect this sentiment to persist well into 2023. 
+Intuition: 
+- User migration due to bear market conditions and the aftermath of FTX collapse is a reoccurring pain point for all verticals of the web3 ecosystem.
+- In December 2022, Lens Profile Addresses had the largest monthly percentage drop since launching at -76%.
+- Given the current market conditions of web3 and the global markets at large, we can expect this sentiment to persist well into 2023.
 
 ![Screen Shot 2023-01-06 at 09.34.59.png](Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Screen_Shot_2023-01-06_at_09.34.59.png)
 
 ![Screen Shot 2023-01-04 at 17.05.05.png](Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Screen_Shot_2023-01-04_at_17.05.05.png)
 
-Despite downward trends in new user acquisition, we see steady increases in Dev and Active User activity coupled with significant investments into Polygon’s ZK infrastructure as promising predictors of long-term adoption and success than short-term reactions to down-market conditions. The composability of Lens profiles, emphasis on security and efficiency with ZK rollups, and its institutional relationship to DeFi protocol AAVE are promising web3 native features that are flexible and easily adaptable to future development and market changes. 
+- Despite downward trends in new user acquisition, we see steady increases in Dev and Active User activity coupled with significant investments into Polygon’s ZK infrastructure as promising predictors of long-term adoption and success than short-term reactions to down-market conditions.
+- The composability of Lens profiles, emphasis on security and efficiency with ZK rollups, and its institutional relationship to DeFi protocol AAVE are promising web3 native features that are flexible and easily adaptable to future development and market changes.
 
 # BNB Chain (Binance)
 
@@ -287,9 +274,14 @@ Hooked Protocol launched its first pilot dApp, Wild Cash, in October 2022 which 
 
 Intuition: 
 
-BNB Chain benefits from the wealth of users on Binance and has huge network effects. BNB’s narrative and focus on onboarding web2 users through rewards, education, and gamification seems to have positive traction with users. The modular design of BNB Side Chains can be beneficial for the dynamic needs of social apps, but the centralized nature of its validator set is concerning censorship resistance and independence from Binance. Binance is also often a target for regulatory compliance and may impact total network usage + BNB price in 2023 onward
-
-Hooked protocol mainly incentivizes users with financial rewards, whose valuation is closely bound to market sentiments. While financial primitives seem to dominate the web3 space, users may begin to eschew such rewards as artificial and inauthentic. Tools and strategies for building communities of new users in web3 that do not involve financial primitives might be a better vehicle for sustained long-term growth. Finally, Hooked Protocol’s In-app wallet is not interoperable, and users will need to manage multiple wallets to have interactions outside of the BNB chain ecosystem. 
+- BNB Chain benefits from the wealth of users on Binance and has huge network effects.
+- BNB’s narrative and focus on onboarding web2 users through rewards, education, and gamification seems to have positive traction with users.
+- The modular design of BNB Side Chains can be beneficial for the dynamic needs of social apps, but the centralized nature of its validator set is concerning censorship resistance and independence from Binance.
+- Binance is also often a target for regulatory compliance and may impact total network usage + BNB price in 2023 onward
+- Hooked protocol mainly incentivizes users with financial rewards, whose valuation is closely bound to market sentiments.
+- While financial primitives seem to dominate the web3 space, users may begin to eschew such rewards as artificial and inauthentic.
+- Tools and strategies for building communities of new users in web3 that do not involve financial primitives might be a better vehicle for sustained long-term growth.
+- Finally, Hooked Protocol’s In-app wallet is not interoperable, and users will need to manage multiple wallets to have interactions outside of the BNB chain ecosystem.
 
 # DeSo
 
@@ -298,9 +290,12 @@ DeSo is a custom-built layer-1 blockchain to scale decentralized social applicat
 Diamond, a decentralized Twitter alternative, has blogging functionality and several money-native features creators can use to build, scale and monetize their audience such as social tokens and social tipping. Diamond has also integrated the DeSo wallet, which supports both a one-click Google login and a one-click MetaMask login, making it easy to bring on board users within Ethereum and mainstream users. Users can also deposit USDC from MetaMask onto DeSo apps and receive a DeSo-native stablecoin called DesoDollar. Once onboarded with USDC, all stablecoin transactions become virtually gasless, costing less than one ten-thousandth of a cent.
 
 Intuition:
-DeSo ticks many boxes and has a clear vision for disrupting web2 socials. The portability of a user’s social graph, Metamask ID, and USDC across DeSo social apps is a promising infrastructure for adoptability. Having all app activity on one chain with a composable identity is beneficial for dev teams looking to build on DeSo as the data is publicly available, and easy to label and index. 
-
-However, the performance of DeSo interoperability beyond ETH users will be something to monitor. Given their development thesis, we can also not expect much interoperability or cooperation with web2 platforms. The narrative of DeSo is a winner takes all social chain, outperforming all other chains and claiming the lion’s share of social development in web3. Whether or not this is feasible will depend on developer activity, of which there is not currently publicly available data. 
+- DeSo ticks many boxes and has a clear vision for disrupting web2 socials. -The portability of a user’s social graph, Metamask ID, and USDC across DeSo social apps is a promising infrastructure for adoptability.
+- Having all app activity on one chain with a composable identity is beneficial for dev teams looking to build on DeSo as the data is publicly available, and easy to label and index.
+- However, the performance of DeSo interoperability beyond ETH users will be something to monitor.
+- Given their development thesis, we can also not expect much interoperability or cooperation with web2 platforms.
+- The narrative of DeSo is a winner takes all social chain, outperforming all other chains and claiming the lion’s share of social development in web3.
+- Whether or not this is feasible will depend on developer activity, of which there is not currently publicly available data.
 
 # Solana
 
@@ -324,9 +319,9 @@ For consumers, initial UX improvements on Solana Saga include native, secure pri
 
 Intuition: Solana is shrouded in mystery and its believers often point to three key factors that will determine its success: 
 
-1. heavy investment from web3 whales and institutional investors
-2. consistent growth in its developer community / hackathons 
-3. mass adoption of SMS (Solana Mobile Stack)
+- Heavy investment from web3 whales and institutional investors
+- Consistent growth in its developer community / hackathons 
+- Mass adoption of SMS (Solana Mobile Stack)
 
 Whether or not these features will translate into mass adoption and social app development is yet to be seen. 
 
@@ -344,16 +339,8 @@ Being a data-storage-focused network, Arweave is a great storage option for soci
 
 Active projects: Permafacts, Metaweave, decent.land, Mirror, Lens
 
-## Intuition
-
-### Positives
-
-- Low fees for data storage that is efficient for storing content.
-- Permanent storage of content/interactions creating censorship resistance and a better experience.
-
-### Negatives
-
-- The community of the chain is not as large as EVM-compatible chains
+- The launch of Sweat Economy was a positive development bringing more users on-chain and lifting community sentiment despite the bear market.
+- This proves that NEAR has a great capacity for scaling apps and connecting web2 users with web3. NEAR has raised over $1 billion to accelerate the development of the NEAR protocol ecosystem, however further development of social apps is yet to be seen.
 
 # Near
 
