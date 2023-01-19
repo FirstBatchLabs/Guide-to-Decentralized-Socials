@@ -1,3 +1,5 @@
+> This is an open-source research that anybody can contribute to, we will do our best to keep the information up to date and review the pull requests as quickly as possible
+
 # Essential Guide to Decentralized Social on Chains &amp; Rollups
 
 To date, the inspiration and motivation behind the scaling of L1/L2 chains have largely been rooted in DeFi’s desire to improve the speed and efficiency of transactions on Ethereum. As the ecosystem grows, we move away from a winner-takes-all narrative and closer to a reality where Dapps build out across multiple specialized blockchains, each tailored to a particular category of applications. While DeFi inspired the first wave of L1/L2 scaling and development, we see a great opportunity for Social Apps to move the ball further with a fresh set of challenges and the promise of bringing the next billion users to web3.
