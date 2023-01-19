@@ -141,11 +141,11 @@ Attic is still in the beta phase and is only open to Early Access NFT holders.
 
 Metalink is an NFT-focused community interactions platform that works similarly to Discord. It has announcement boards, push notifications, a portfolio tracker, and more. By pulling Discord announcements from top collections and sending notifications for floor price changes, Metalink aims to create a one-stop solution for NFT collectors. 
 
-![Untitled](Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Untitled%2014.png)
+<img src="Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Untitled%2014.png" width="300">
 
-![Untitled](Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Untitled%2015.png)
+<img src="Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Untitled%2015.png" width="300">
 
-![Untitled](Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Untitled%2016.png)
+<img src="Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Untitled%2016.png" width="300">
 
 ## Monaco
 
@@ -339,8 +339,9 @@ Being a data-storage-focused network, Arweave is a great storage option for soci
 
 Active projects: Permafacts, Metaweave, decent.land, Mirror, Lens
 
-- The launch of Sweat Economy was a positive development bringing more users on-chain and lifting community sentiment despite the bear market.
-- This proves that NEAR has a great capacity for scaling apps and connecting web2 users with web3. NEAR has raised over $1 billion to accelerate the development of the NEAR protocol ecosystem, however further development of social apps is yet to be seen.
+- Low fees for data storage that is efficient for storing content.
+- Permanent storage of content/interactions creating censorship resistance and a better experience.
+- The community of the chain is not as large as EVM-compatible chains
 
 # Near
 
@@ -366,7 +367,8 @@ Sweat Economy has registered over 3.5 million active users, and 15 million uniqu
 Source: [Messari State of Near Q3 2022](https://messari.io/report/state-of-near-q3-2022)
 
 Intuition:
-The launch of Sweat Economy was a positive development bringing more users on-chain and lifting community sentiment despite the bear market. This proves that NEAR has a great capacity for scaling apps and connecting web2 users with web3. NEAR has raised over $1 billion to accelerate the development of the NEAR protocol ecosystem, however further development of social apps is yet to be seen. 
+- The launch of Sweat Economy was a positive development bringing more users on-chain and lifting community sentiment despite the bear market.
+- This proves that NEAR has a great capacity for scaling apps and connecting web2 users with web3. NEAR has raised over $1 billion to accelerate the development of the NEAR protocol ecosystem, however further development of social apps is yet to be seen.
 
 # Cosmos
 
