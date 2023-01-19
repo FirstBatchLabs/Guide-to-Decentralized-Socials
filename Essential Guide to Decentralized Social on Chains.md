@@ -54,7 +54,7 @@ Direct messaging is important for providing users the direct interaction that th
 
 ## Personalization
 
-Personalization is one of the most important aspects of a social app and it creates the difference between a boring feed and an entertaining one. In web2 applications, personalization methods are advanced but the experience is limited to platforms and the user data is often used without the users’ consent. FirstBatch is working on making personalization privacy preserving and interoperable.
+Personalization is one of the most important aspects of a social app and it creates the difference between a boring feed and an entertaining one. In web2 applications, personalization methods are advanced but the experience is limited to platforms and the user data is often used without the users’ consent. FirstBatch is working on making personalization privacy-preserving and interoperable.
 
 ## Search
 
@@ -68,28 +68,28 @@ Token-Gating is a method that is used for only allowing people who have certain 
 
 ## Social Media Platforms
 
-Currently there are a number of live decentralized social apps that use one ore more tools mentioned above. 
+Currently, there are a number of live decentralized social apps that use one or more tools mentioned above. 
 
-- **Lenster**: Decentralized social web app built with Lens, it has simple UI with popular, for you, trending and interesting tabs.
+- **Lenster**: Decentralized social web app built with Lens, it has avsimple UI with popular, for you, trending, and interesting tabs.
 
 ![Untitled](Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Untitled%205.png)
 
 ![Untitled](Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Untitled%206.png)
 
-- **Phaver:** Share to earn app built with lens. Right now it can be accessed via whitelisting. Phaver gives users 5 tokens everyday that can be used to stake on posts to gain more tokens when they get more popular.
+- **Phaver:** Share to earn app built with Lens. Right now it can be accessed via whitelisting. Phaver gives users 5 tokens every day that can be used to stake on posts to gain more tokens when they get more popular.
 - **************Desofy:************** Mobile social media app built with DeSo
 - ******************Diamond:****************** Twitter-like social web app built with DeSo.
     
     ![Untitled](Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Untitled%207.png)
     
-- ********Yup******** is a text/image focused social media platform that aggregates posts from lens and farcaster
+- ********Yup******** is a text/image focused social media platform that aggregates posts from Lens and Farcaster
 
 ![Untitled](Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Untitled%208.png)
 
 - ********Galxe:******** Infrastructure for community members to curate and contribute digital credentials to Galxe data network.
-- ****************gm.xyz:**************** Community based social app similar to Reddit with reputation systems, monetization, and token gating features.
+- ****************gm.xyz:**************** Community-based social app similar to Reddit with reputation systems, monetization, and token-gating features.
 - **********Orbis:********** Set of social data models combined with a decentralized infrastructure. SDK and flexible modules allow devs to build composable, social experiences.
-- **********Link3:********** Provides a wallet address based persona composed of verifiable credentials that allow users to connect with  events, social communities, investment opportunities, airdrops, or DAO communities in the CyberConnect ecosystem.
+- **********Link3:********** Provides a wallet address-based persona composed of verifiable credentials that allow users to connect with events, social communities, investment opportunities, airdrops, or DAO communities in the CyberConnect ecosystem.
     
     ![Untitled](Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Untitled%209.png)
     
@@ -320,7 +320,7 @@ For consumers, initial UX improvements on Solana Saga include native, secure pri
 Intuition: Solana is shrouded in mystery and its believers often point to three key factors that will determine its success: 
 
 - Heavy investment from web3 whales and institutional investors
-- Consistent growth in its developer community / hackathons 
+- Consistent growth in its developer community/hackathons 
 - Mass adoption of SMS (Solana Mobile Stack)
 
 Whether or not these features will translate into mass adoption and social app development is yet to be seen. 
@@ -345,7 +345,7 @@ Active projects: Permafacts, Metaweave, decent.land, Mirror, Lens
 
 # Near
 
-NEAR’s blockchain can be used to run smart contracts, but it also has compatibility with the Ethereum Virtual Machine (EVM) to allow Ethereum developers to easily port over applications through Aurora network. 
+NEAR’s blockchain can be used to run smart contracts, but it also has compatibility with the Ethereum Virtual Machine (EVM) to allow Ethereum developers to easily port over applications through the Aurora network. 
 
 ![Screen Shot 2023-01-10 at 14.08.16.png](Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/Screen_Shot_2023-01-10_at_14.08.16.png)
 
@@ -368,7 +368,7 @@ Source: [Messari State of Near Q3 2022](https://messari.io/report/state-of-near-
 
 Intuition:
 - The launch of Sweat Economy was a positive development bringing more users on-chain and lifting community sentiment despite the bear market.
-- This proves that NEAR has a great capacity for scaling apps and connecting web2 users with web3. NEAR has raised over $1 billion to accelerate the development of the NEAR protocol ecosystem, however further development of social apps is yet to be seen.
+- This proves that NEAR has a great capacity for scaling apps and connecting web2 users with web3. NEAR has raised over $1 billion to accelerate the development of the NEAR protocol ecosystem, however, further development of social apps is yet to be seen.
 
 # Cosmos
 
