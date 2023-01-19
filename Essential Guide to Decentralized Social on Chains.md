@@ -1,3 +1,5 @@
+> This is an open-source research that anybody can contribute to, we will do our best to keep the information up to date and review the pull requests as quickly as possible
+
 # Essential Guide to Decentralized Social on Chains & Rollups
 
 # Introduction
