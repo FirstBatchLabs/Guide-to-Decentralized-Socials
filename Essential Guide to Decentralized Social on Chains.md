@@ -35,7 +35,7 @@ In order to build a decentralized social media platform, there are many componen
     - **personalization** tools for optimizing users’ experience based on their interests;
     - and finally, **search** tools that allow users to easily find content.
 
-<img src="Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/SocialStack.png">
+<img src="Essential%20Guide%20to%20Decentralized%20Social%20on%20Chains%20%2053a3b5d2d06f43f9a3ea9635b47d0083/ChainEcos.png">
 
 ## Storage
 
